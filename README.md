@@ -1,5 +1,5 @@
-# IoT-Smart-home-admin-and-security-system
-- Smart home monitoring system controlled by Blynk web service through a mobile application with a keep-alive system using a socket connection.
+# Raspberry-Pi-IoT-Smart-home-admin-and-security-system
+- Smart home monitoring system implemented on **Raspberry Pi 3 B+** and controlled by Blynk web service through a mobile application with a keep-alive system using a socket connection.
 - Security system with RFID technology, and motion sensors.
 
 # Request testing Folder
